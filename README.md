@@ -1,4 +1,4 @@
-# [Project Name]:📊 Student Involvement & Performance Analysis: Data Analysis & BI Reporting
+# Project Name:📊 Student Involvement & Performance Analysis: Data Analysis & BI Reporting
 
 ## Overview
 
