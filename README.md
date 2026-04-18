@@ -1,56 +1,41 @@
-📊 Student Involvement & Performance Analysis
-🧾 Project Overview
+# [Project Name]:📊 Student Involvement & Performance Analysis: Data Analysis & BI Reporting
 
-This project analyzes how various student-related factors influence academic performance using IBM Cognos Analytics. The report is built to explore relationships between behavioral, academic, and environmental variables and their impact on exam scores.
+## Overview
 
-The goal is to provide meaningful insights that can help improve student outcomes through data-driven decisions.
+This project leverages IBM Cognos Analytics to transform raw student data into actionable educational insights. By utilizing advanced reporting and interactive dashboards, the project identifies key patterns affecting student performance and presents a clear analytical narrative for decision-making.
 
-🎯 Objectives
-Analyze the impact of student involvement on academic performance
-Identify key factors affecting Exam Score
-Build an interactive report using Cognos Analytics
-Understand relationships between lifestyle and performance
-📁 Dataset Information
+---
 
-Dataset Name: StudentPerformanceFactors.csv
+## Objectives
 
-🔑 Features Used:
-Attendance
-Gender
-Distance_from_Home
-Parental_Involvement
-Previous_Scores
-Motivation_Level
-Physical_Activity
-Internet_Access
-Exam_Score
-📌 Data Type:
-Mixed (Numerical + Categorical)
-🛠️ Tools & Technologies
-IBM Cognos Analytics
-CSV Dataset
-Data Visualization & Reporting
-📈 Key Insights
-Higher attendance leads to better performance
-Previous scores strongly influence exam results
-Parental involvement improves student outcomes
-Students with higher motivation levels perform better
-Internet access shows a slight positive impact
-Balanced physical activity supports consistent performance
-Students living near or moderate distance from home perform slightly better
-📊 Report Features
-Interactive tabular report
-Multi-variable comparison
-Performance distribution analysis
-Percentage contribution of exam scores
-✅ Conclusion
+* **Data Modeling**: Create a structured data module for accurate student performance reporting.
+* **Interactive Visualization**: Design reports for exploring student behaviour and outcomes.
+* **Business Insights:** Identify factors influencing academic success.
+* **Technical Mastery:** Demonstrate skills in IBM Cognos, including filters, calculations, and report building.
 
-Student performance depends on multiple interconnected factors rather than a single variable. Attendance, motivation, and previous academic history are the most influential.
+---
 
-Using IBM Cognos Analytics, this project successfully visualizes and analyzes these factors, helping in better understanding and decision-making in the education domain.
+## Dataset Profile
 
-🚀 Future Improvements
-Add dashboards with charts (Bar, Pie, KPI)
-Apply predictive analytics (ML models)
-Include more real-world datasets
-Deploy as a web-based analytics system
+* **Name:** StudentPerformanceFactors.csv
+* **Source:** Academic Dataset (Local / Project Use)
+* **Format:** CSV
+* **Dimensions:** 10 columns × ~1000 rows (approx.)
+* **Domain:** Education / Student Performance Analysis
+* **Description:** This dataset contains student-related attributes such as attendance, parental involvement, motivation level, and previous scores to analyze their impact on exam performance
+---
+
+## Key Insights
+* **Trend 1:** Students with higher attendance and previous scores consistently achieve better exam results.
+* **Trend 2:** Medium to high parental involvement positively impacts student performance.
+* **Anomaly 1:** Some students with low motivation still perform well due to strong previous academic records.
+* **Insight 2:** Internet access and physical activity show a moderate influence on overall performance.
+* **Prediction 1:** Students with high motivation and attendance are expected to maintain strong academic outcomes.
+
+---
+
+## Conclusion
+
+This project demonstrates the transformation of raw student data into meaningful insights using IBM Cognos Analytics. The analysis highlights that student performance is influenced by multiple interconnected factors such as attendance, motivation, and prior academic history.
+
+The reporting framework built in Cognos enables users to not only understand what impacts performance but also why, through structured and interactive data visualization.
